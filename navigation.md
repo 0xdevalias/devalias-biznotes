@@ -4,6 +4,8 @@
 
 [Insurance](insurance.md)
 
+[Managed Solutions](managed-solutions.md)
+
 <!-- set a default theme -->
 [gimmick:theme (inverse: false)](cosmo)
 
