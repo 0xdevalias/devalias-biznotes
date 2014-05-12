@@ -6,6 +6,8 @@
 
 [Managed Solutions](managed-solutions.md)
 
+[Lawyers](lawyers.md)
+
 <!-- set a default theme -->
 [gimmick:theme (inverse: false)](cosmo)
 
